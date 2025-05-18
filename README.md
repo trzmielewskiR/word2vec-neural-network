@@ -34,7 +34,6 @@ pip install -r requirements.txt
 ### 2. Download embeddings and sports texts
 Download and extract the [Polish FastText embeddings](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.pl.300.vec.gz) into the project directory.
 
-Clone given [repository](https://git.wmi.amu.edu.pl/kubapok/sport-text-classification-ball-ISI-public) and put its files into the project.
 
 ### 3. Run the model
 
